@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signup-btn{
+    background-color: #387ed1; cursor: pointer; 
+    border-radius: 3px; padding: 10px 30px; color: #eee; font-size: 20px;
+    font-weight: 600;
+}
+.logo{
+    padding-top: 15px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between; 
+    padding-left: 300px;
+    padding-right: 300px;
+    box-shadow: 2px 1px 2px #eee;
+}
+.nav-item{
+    padding: 20px;
+    color: #666;
+    cursor: pointer;
+}
+.nav-item-container{
+    display: flex;
+    justify-content: space-between;
+}
+.signup-btn-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.portfolio-image-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.text-header{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.text-header h1{
+    font-weight: 500;
+    font-size: 50px;
+}
+.text-subtitles{
+    display: flex;
+    justify-content: center;
+}
+.text-subtitles h2{
+    font-weight: 400;
+}
